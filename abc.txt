@@ -3,3 +3,5 @@ keyboard
 mouse
 hello
 sravani
+hi cpu
+monitor
